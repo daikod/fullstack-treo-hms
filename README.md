@@ -3,6 +3,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 Key Notes (optional);
 1. Free Prisma, Neon and Clerk accounts
 2. Local postgresql database can be used instead of option 1
+3. Deploy using vercel
 
 ## Getting Started
 

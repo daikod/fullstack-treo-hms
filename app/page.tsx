@@ -19,14 +19,14 @@ export default async function Home() {
           <h1 className="text-4xl md:text-5xl font-bold text-center">
             Welcome to <br />
             <span className="text-blue-700 text-5xl md:text-6xl">
-              TREO HMS
+              TREO Healthcare Management System
             </span>
           </h1>
         </div>
 
         <div className="text-center max-w-xl flex flex-col items-center justify-center">
           <p className="mb-8">
-            TREO HMS - A HealthCare Management System comprosing a fulle electronic health records system, that simplifies the process of patient care and management.
+            TREO HMS - A Healthcare Management System comprosing a full electronic health records system, that simplifies the process of patient care and management.
           </p>
 
           <div className="flex gap-4">
